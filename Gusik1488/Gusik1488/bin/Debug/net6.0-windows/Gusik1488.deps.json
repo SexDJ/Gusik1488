@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gusik1488/1.0.0": {
+        "runtime": {
+          "Gusik1488.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gusik1488/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
